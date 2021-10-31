@@ -1,5 +1,6 @@
 //Program to find the prime numbers in O(nloglogn)
 #include <bits/stdc++.h> 
+#include <iostream>
 using namespace std; 
   
 void SieveOfEratosthenes(int n) 
